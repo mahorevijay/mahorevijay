@@ -1,5 +1,5 @@
 - 👋 Hi, I’ vijay
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new things. 
 - 🌱 I’m currently pursuing BSc in programming and data science from IIT Madras.
 - 📫 you can to reach me at mahorevijay@gmail.com
 
